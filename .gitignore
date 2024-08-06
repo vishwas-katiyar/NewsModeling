@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+phi-3-mini-128k-instruct/
 # Distribution / packaging
 .Python
 build/
